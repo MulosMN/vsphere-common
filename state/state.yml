@@ -1,2 +1,2 @@
----
-# initially empty
+iaas: vsphere
+vm_id: /Datacenter/vm//Datacenter/vm/pas-sandbox-om
