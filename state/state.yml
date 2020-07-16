@@ -1,2 +1,3 @@
-iaas: vsphere
-vm_id: /Datacenter/vm//Datacenter/vm/pas-sandbox-om
+-iaas: vsphere
+-vm_id: /Datacenter/vm//Datacenter/vm/pas-sandbox-om
+
